@@ -23,110 +23,110 @@ class FresquitoServiceTest extends TestCase
               [
                 'date' => '2017-06-22',
                 'no_used' => 1,
-                'name' => 'Teruel',
-                'tmed' => 12.3
+                'nombre' => 'Teruel',
+                'tmed' => "12,3"
               ],
               [
                 'date' => '2017-06-22',
                 'no_used' => 1,
-                'name' => 'Madrid',
-                'tmed' => 21.3
+                'nombre' => 'Madrid',
+                'tmed' => "21,3"
               ],
               [
                 'date' => '2017-06-22',
                 'no_used' => 1,
-                'name' => 'Alpedrete',
-                'tmed' => 2.3
+                'nombre' => 'Alpedrete',
+                'tmed' => "2,3"
               ],
               [
                 'date' => '2017-06-22',
                 'no_used' => 1,
-                'name' => 'Gijon',
-                'tmed' => 18.3
+                'nombre' => 'Gijon',
+                'tmed' => "18,3"
               ],
               [
                 'date' => '2017-06-22',
                 'no_used' => 1,
-                'name' => 'Gandia',
-                'tmed' => 13.3
+                'nombre' => 'Gandia',
+                'tmed' => "13,3"
               ],
               [
                 'date' => '2017-06-22',
                 'no_used' => 1,
-                'name' => 'Sagunto',
-                'tmed' => 17.3
+                'nombre' => 'Sagunto',
+                'tmed' => "17,3"
               ],
               [
                 'date' => '2017-06-23',
                 'no_used' => 1,
-                'name' => 'Teruel',
-                'tmed' => 12.9
+                'nombre' => 'Teruel',
+                'tmed' => "12,9"
               ],
               [
                 'date' => '2017-06-23',
                 'no_used' => 1,
-                'name' => 'Madrid',
-                'tmed' => 21.9
+                'nombre' => 'Madrid',
+                'tmed' => "21,9"
               ],
               [
                 'date' => '2017-06-23',
                 'no_used' => 1,
-                'name' => 'Alpedrete',
-                'tmed' => 2.9
+                'nombre' => 'Alpedrete',
+                'tmed' => "2,9"
               ],
               [
                 'date' => '2017-06-23',
                 'no_used' => 1,
-                'name' => 'Gijon',
-                'tmed' => 18.9
+                'nombre' => 'Gijon',
+                'tmed' => "18,9"
               ],
               [
                 'date' => '2017-06-23',
                 'no_used' => 1,
-                'name' => 'Gandia',
-                'tmed' => 13.9
+                'nombre' => 'Gandia',
+                'tmed' => "13,9"
               ],
               [
                 'date' => '2017-06-23',
                 'no_used' => 1,
-                'name' => 'Sagunto',
-                'tmed' => 17.9
+                'nombre' => 'Sagunto',
+                'tmed' => "17,9"
               ],
               [
                 'date' => '2017-06-24',
                 'no_used' => 1,
-                'name' => 'Teruel',
-                'tmed' => 12.1
+                'nombre' => 'Teruel',
+                'tmed' => "12,1"
               ],
               [
                 'date' => '2017-06-24',
                 'no_used' => 1,
-                'name' => 'Madrid',
-                'tmed' => 25.1
+                'nombre' => 'Madrid',
+                'tmed' => "25,1"
               ],
               [
                 'date' => '2017-06-24',
                 'no_used' => 1,
-                'name' => 'Alpedrete',
-                'tmed' => 5.1
+                'nombre' => 'Alpedrete',
+                'tmed' => "5,1"
               ],
               [
                 'date' => '2017-06-24',
                 'no_used' => 1,
-                'name' => 'Gijon',
-                'tmed' => 13.1
+                'nombre' => 'Gijon',
+                'tmed' => "13,1"
               ],
               [
                 'date' => '2017-06-24',
                 'no_used' => 1,
-                'name' => 'Gandia',
-                'tmed' => 12.1
+                'nombre' => 'Gandia',
+                'tmed' => "12,1"
               ],
               [
                 'date' => '2017-06-24',
                 'no_used' => 1,
-                'name' => 'Sagunto',
-                'tmed' => 22.1
+                'nombre' => 'Sagunto',
+                'tmed' => "22,1"
               ]
             ]
           ]
